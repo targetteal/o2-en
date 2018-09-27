@@ -15,49 +15,49 @@ All participants of an **Organic Organization**, its _Partners_, may rely on the
 
 > ¹ Meta-Agreements are agreements about how to build new agreements
 
-## 2. Estrutura Organizacional
+## 2. Organizational Structure
 
-**Organizações Orgânicas** têm uma _Estrutura Organizacional_ composta de _Papéis_, _Círculos_ e _Restrições_, que definem expectativas e limitações de autoridade. Estes elementos formam uma hierarquia de _Círculos_ e são descritos em detalhes nas seções seguintes.
+**Organic Organizations** have an _Organizational Structure_ composed of _Roles_, _Circles_, and _Restrictions_, which define expectations and limitations of authority. These elements form a hierarchy of _Circles_ and are described in details in the upcoming sections.
 
-### 2.1 Papéis
+### 2.1 Roles
 
-Os _Parceiros_ da organização normalmente executam o trabalho em um ou mais _Papéis_ explicitamente definidos.
+The _Partners_ of the organization normally perform the work in one or more explicitly defined _Roles_.
 
-Um _Papel_ é uma parte da _Estrutura Organizacional_ composto de:
+A _Role_ is an element of the _Organizational Structure_ composed of:
 
-- Um nome descritivo (obrigatório);
-- Um _Propósito_, que é uma capacidade, potencial ou objetivo inalcançável que o _Papel_ irá perseguir ou expressar (obrigatório);
-- _Responsabilidades_, que são atividades recorrentes que outros podem esperar que o _Papel_ irá executar (opcional);
-- _Artefatos_, que são as coisas que o _Papel_ pode exclusivamente controlar e regular para a organização (opcional).
+- A descriptive name (mandatory);
+- A _Purpose_, which is a capacity, potential or unattainable goal that the _Role_ is going to pursue or express (mandatory);
+- _Accountabilities_, which are ongoing activities that others can expect the _Role_ will perform (optional);
+- _Artifacts_, which are things the _Role_ can exclusively control and regulate for the organization (optional).
 
-### 2.2 Círculos
+### 2.2 Circles
 
-_Círculos_ são estruturas análogas a _Papéis_, e portanto têm as mesmas propriedades descritas na seção [Papéis](#papéis).
+_Circles_ are analogous structures to _Roles_, and thus have the same properties described in the [Roles](#roles) section.
 
-_Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os seus próprios _Papéis_ e _Círculos_ internos, e assim por diante. A estrutura é fractal. Pela perspectiva de um _Círculo_ externo, os seus _Círculos_ internos são como _Papéis_ que têm a habilidade adicional de dividirem-se.
+_Circles_ can contain _Roles_ and inner _Circles_, which can further contain their own _Roles_ and inner _Circles_, and so on. The structure is fractal. From the perspective of an outer _Circle_, its inner _Circles_ are like _Roles_ that have the additional ability to break down.
 
-As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este _Círculo_.
+_Circle_ properties (name, _Purpose_, _Accountabilities_, and _Artifacts_) can only be changed in the _Adapt_Mode_ of the _Circle Meeting_ that contains the _Circle_.
 
-Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ específico neste mesmo _Círculo_.
+An _Artifact_ of a _Circle_ can be accessed by all _Circle Members_, except if the _Artifact_ has been further delegated to a specific _Role_ or inner _Circle_ in that same  _Circle_.
 
-A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
+The organization itself is the broader _Circle_ in structure, containing all other ones.
 
-_Círculos_ internos são criados com o propósito de manter as _Reuniões de Círculo_ com um número gerenciável de participantes e foco claro.
+Inner _Circles_ are created for the purpose of keeping _Circle Meetings_ with a manageable number of participants and clear focus.
 
-São _Membros do Círculo_ todas os _Parceiros_ que:
- - Desempenham pelo menos um _Papel_ no _Círculo_;
- - Desempenham o _Papel_ de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
- - Desempenham o _Papel_ de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+The _Circle Members_ of a given _Circle_ include all _Partners_ that:
+ - Fill at least one _Role_ in the _Circle_;
+ - Fill the _Outer Link_ _Role_ in at least one inner _Circle_;
+ - Fill the _Inner Link_ _Role_ in at least one inner _Circle_;
 
-### 2.3 Restrições
+### 2.3 Restrictions
 
-_Restrições_ são limitações de autoridade que aplicam-se a todos os _Papéis_ de um dado _Círculo_. _Restrições_ são compostas de um título e uma descrição (ambos obrigatórios) e propagam-se para todos os _Círculos_ internos, a não ser que de outra forma especificado na sua descrição.
+_Restrictions_ are limitations of authority that apply to all _Roles_ of a given _Circle_. _Restrictions_ are composed of a title and description (both mandatory) and propagate to all inner _Circles_, unless otherwise specified in their description.
 
-_Restrições_ não podem estabelecer expectativas, porque este é o propósito de uma _Responsabilidade_. Ainda assim, uma _Restrição_ pode exigir uma ação, mas apenas para indivíduos em que a _Restrição_ se aplica na condição específica que desencadeia ela.
+_Restrictions_ can't establish expectations, because thats the purpose of an _Accountability_. Nevertheless, a _Restriction_ cand demmand action, but only for the individuals on which the _Restriction_ applies and in the specific condition that triggers it.
 
-### 2.4 Evolução da Estrutura
+### 2.4 Structure Evolution
 
-Todos os elementos que são parte da _Estrutura Organizacional_ do _Círculo_ descritos nesta seção (_Papéis_, _Círculos_ e _Restrições_) somente podem ser atualizados no _Modo Adaptar_ da sua _Reunião de Círculo_.
+All elements that are part of the _Circle_ _Organizational Structure_ described in this section (_Roles_, _Circles_, and _Restrictions_) can only be changed in the _Adapt Mode_ of its _Circle Meeting_.
 
 ## 3. Direitos
 
