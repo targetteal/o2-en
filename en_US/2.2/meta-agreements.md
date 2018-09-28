@@ -21,7 +21,7 @@ All participants of an **Organic Organization**, its _Partners_, may rely on the
 
 ### 2.1 Roles
 
-The _Partners_ of the organization normally perform the work in one or more explicitly defined _Roles_.
+_Partners_ of the organization normally perform the work in one or more explicitly defined _Roles_.
 
 A _Role_ is an element of the _Organizational Structure_ composed of:
 
