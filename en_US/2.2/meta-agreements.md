@@ -27,16 +27,16 @@ A _Role_ is an element of the _Organizational Structure_ composed of:
 
 - A descriptive name (mandatory);
 - A _Purpose_, which is a capacity, potential or unattainable goal that the _Role_ is going to pursue or express (mandatory);
-- _Accountabilities_, which are ongoing activities that others can expect the _Role_ will perform (optional);
+- _Accountabilities_, which are ongoing activities that others can expect the _Role_ to perform (optional);
 - _Artifacts_, which are things the _Role_ can exclusively control and regulate for the organization (optional).
 
 ### 2.2 Circles
 
 _Circles_ are analogous structures to _Roles_, and thus have the same properties described in the [Roles](#roles) section.
 
-_Circles_ can contain _Roles_ and inner _Circles_, which can further contain their own _Roles_ and inner _Circles_, and so on. The structure is fractal. From the perspective of an outer _Circle_, its inner _Circles_ are like _Roles_ that have the additional ability to break down.
+_Circles_ can contain _Roles_ and inner _Circles_, which can further contain their own _Roles_ and inner _Circles_, and so on. The structure is fractal. From the perspective of an outer _Circle_, its inner _Circles_ are like _Roles_ that have the additional ability to break themselves down.
 
-_Circle_ properties (name, _Purpose_, _Accountabilities_, and _Artifacts_) can only be changed in the _Adapt_Mode_ of the _Circle Meeting_ that contains the _Circle_.
+_Circle_ properties (name, _Purpose_, _Accountabilities_, and _Artifacts_) can only be changed in the _Adapt Mode_ of the _Circle Meeting_ that contains the _Circle_.
 
 An _Artifact_ of a _Circle_ can be accessed by all _Circle Members_, except if the _Artifact_ has been further delegated to a specific _Role_ or inner _Circle_ in that same  _Circle_.
 
@@ -53,7 +53,7 @@ The _Circle Members_ of a given _Circle_ include all _Partners_ that:
 
 _Restrictions_ are limitations of authority that apply to all _Roles_ of a given _Circle_. _Restrictions_ are composed of a title and description (both mandatory) and propagate to all inner _Circles_, unless otherwise specified in their description.
 
-_Restrictions_ can't establish expectations, because thats the purpose of an _Accountability_. Nevertheless, a _Restriction_ cand demmand action, but only for the individuals on which the _Restriction_ applies and in the specific condition that triggers it.
+_Restrictions_ can't establish expectations, because that's the purpose of an _Accountability_. Nevertheless, a _Restriction_ can demmand action, but only for the individuals on which the _Restriction_ applies and in the specific condition that triggers it.
 
 ### 2.4 Structure Evolution
 
@@ -83,7 +83,7 @@ _Partners_ are responsible for trying to resolve those _Tensions_, using the aut
 
 ### 4.2 Transparency
 
-When requested, it's expected that _Partners_ share all relevant information about the work of their _Roles_, including each project thei're working on, actions identified, prioritization criteria and relevant metrics.
+When requested, it's expected that _Partners_ share all relevant information about the work of their _Roles_, including each project they're working on, actions identified, prioritization criteria and relevant metrics.
 
 Upon request, it's also expected that _Partners_ give estimations and projections about possible completion dates of their works, even those projections shall not be considered deadlines or committments.
 
@@ -95,11 +95,11 @@ It's expected that _Partners_ prioritize their work in alignment with _Circle_ p
 
 When requested by other _Circle Members_, _Partners_ must prioritize attending to _Circle Meetings_ instead of working on their _Roles_.
 
-## 5. Circle Meetings_
+## 5. Circle Meetings
 
 _Circle Members_ regularly gather in a space called _Circle Meeting_ to perform one or more of the 5 special meeting modes described in the following section: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
-_Circle Meetings_ are scheduled by the _Secretary_ and facilitated by the _Facilitator_, two _Core Roles_ described in the end of this document.
+_Circle Meetings_ are scheduled by the _Secretary_ and facilitated by the _Facilitator_, two _Core Roles_ described at the end of this document.
 
 People that aren't _Circle Members_ are not authorized to process _Tensions_ in _Circle Meetings_, unless they are invited by a _Circle Member_ in order to help in the processing of a specific _Tension_.  
 
@@ -107,7 +107,7 @@ People that aren't _Circle Members_ are not authorized to process _Tensions_ in 
 
 _Circle Meetings_ start with a check-in round, where one at a time, each participant shares how he or she is comming to the meeting.
 
-The _Fatilitator_ fills the meeting with one or more of the 5 modes, according to the time available and the needs of the _Circle_. The _Facilitator_ should declare the name, goal, and clarify any rules of each mode before starting it.
+The _Facilitator_ fills the meeting with one or more of the 5 modes, according to the time available and the needs of the _Circle_. The _Facilitator_ should declare the name, goal, and clarify any rules of each mode before starting it.
 
 _Circle Meetings_ end with a closing round, where one at a time, each participant shares a final reflection about the meeting.
 
@@ -153,14 +153,14 @@ After the _Tension_ list is built, the _Facilitator_ must guide the resolution o
 
 The _Integrative Decision-Making_ contains the following elements:
 
-- **1. Presentation.** The participant who brought the _Tension_ (the proponent) should be able to present a proposal to solve it. Alternatively, the _Facilitator_ may allow the proponent to seek help from the others to craft a proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the proponent's _Tension_, not to satisfy everyone.
-- **2. Questions.** The participants can ask questions to the proponent with the goal of better understanding the _Tension_ or the proposal being presented.
-- **3. Reactions.** Each participant also may share a reaction or opinion about the proposal.
-- **4. Alteration.** After hearing reactions and questions, the proponent may change the proposal.  
-- **5. Objections.** Each participant may raise one or more _Objections_ to the proposal.
-- **6. Integration.** If there are _Objections_, they should be integrated to the proposal, one at a time. The goal is to modify the proposal so that it solves the original _Tension_, but without causing the raised _Objection_. If the proposal is changed, the _Facilitator_ must give the participants another oportunity to raise _Objections_. If a proposal is taking too much time to integrate, the _Facilitator_ may discard the proposal entirely in order to pass to the next item on the _Tension_ list.
+1. **Presentation.** The participant who brought the _Tension_ (the proponent) should be able to present a proposal to solve it. Alternatively, the _Facilitator_ may allow the proponent to seek help from others to craft a proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the proponent's _Tension_, not to satisfy everyone.
+2. **Questions.** The participants can ask questions to the proponent with the goal of better understanding the _Tension_ or the proposal being presented.
+3. **Reactions.** Each participant also may share a reaction or opinion about the proposal.
+4. **Alteration.** After hearing reactions and questions, the proponent may change the proposal.  
+5. **Objections.** Each participant may raise one or more _Objections_ to the proposal.
+6. **Integration.** If there are _Objections_, they should be integrated to the proposal, one at a time. The goal is to modify the proposal so that it solves the original _Tension_, but without causing the raised _Objection_. If the proposal is changed, the _Facilitator_ must give the participants another opportunity to raise _Objections_. If a proposal is taking too much time to integrate, the _Facilitator_ may discard the proposal entirely in order to pass to the next item on the _Tension_ list.
 
-It's up to the _Facilitator_ to decide how or in each order the elements above are presented. Other elements or steps may be added, as long as they do not collide with the minimum elements.
+It's up to the _Facilitator_ to decide how or in what order the elements above are presented. Other elements or steps may be added, as long as they do not collide with the minimum elements.
 
 #### 5.5.2 Only proposals based on examples
 
@@ -177,7 +177,7 @@ To be valid output for the _Adapt Mode_, a proposal must be composed only of cha
 An _Objection_ is a reason why the proposal would cause harm and move the _Circle_ backwards. The _Facilitator_ may ask questions to help the objector understand if his or her _Objections_ are valid or not. An _Objection_ is considered valid if the objector understands that it meets all the 4 following criteria:
 
 1. **Degradation**. An _Objection_ is a harm that the proposal may cause to the _Circle_. This harm must be explained.
-2. **Causalidade**. This harm is caused by the proposal, that is, it doesn't exist without it.
+2. **Causality**. This harm is caused by the proposal, that is, it doesn't exist without it.
 3. **Data-based**. The _Objection_ is based on current data or past experiences. In other words, it's not an anticipation of future events. However, if the alleged harm is so disastrous that the _Circle_ wouldn't be able to adapt in the future, this criteria can be disconsidered.
 4. **Role-related**. The _Objection_ affects one of the objector _Roles_ in the _Circle_.
 
@@ -189,11 +189,9 @@ Any participant may raise a _Meta-Agreements Violation Objection_ if he or she c
 
 #### 5.5.6 Asynchronous Proposals
 
-Changes to the _Circle_ _Organizational Structure_ can be proposed outside _Circle Meetings_ and are automatically approved if all _Circle Members_ declare that they have no _Objections_. If any _Objeciton_ are raised, the proposal should be escalated to the _Adapt Mode_ of a conventional _Circle Meeting_.
+Changes to the _Circle_ _Organizational Structure_ can be proposed outside _Circle Meetings_ and are automatically approved if all _Circle Members_ declare that they have no _Objections_. If any _Objection_ are raised, the proposal should be escalated to the _Adapt Mode_ of a conventional _Circle Meeting_.
 
 It's up to the _Secretary_ to define how this process is accomplished.
-
-Cabe ao _Secretário_ definir como esse processo é realizado.
 
 ### 5.6 Select Mode
 
@@ -213,7 +211,7 @@ The _Facilitator_ must facilitate an election process considering the following 
 
 For examples of election processes for the _Select Mode_, check the **Pattern Library**.
 
-The format of the _Select Mode_ can be further limited using a _Restriction_, provided that the original goal and the rules above are met.
+The format of the _Select Mode_ can be further limited using a _Restriction_, provided that the original goal is maintained and the rules above are met.
 
 ### 5.7 Care Mode
 
@@ -273,7 +271,7 @@ The _Outer Link_ holds all _Circle_ undelegated _Accountabilities_ and _Artifact
 
 **Accountabilities**:
 - Structuring the _Circle_ to express its _Purpose_
-- Assigning _Partners_ to the _Circle_ _Roles_; monitoring fit; offering feedback to enhance fit; re-assign _Roles_ to other _Partners_ when needed
+- Assigning _Partners_ to the _Circle_ _Roles_; monitoring fit; offering feedback to enhance fit; re-assigning _Roles_ to other _Partners_ when needed
 - Establishing priorities for the _Circle_
 
 **Artifacts**:
@@ -289,4 +287,4 @@ The _Outer Link_ holds all _Circle_ undelegated _Accountabilities_ and _Artifact
 
 # License Attributions
 
-_The Meta-Agreements of the Organic Organization are derived from the [Holacracy Constitution](https://holacracy.com/constitution) created by HolacracyOne, LLC, licensed under Creative Commons Attribution ShareAlike 4.0 International License. This work is licensed under the same conditions. [Further information about the license can be found here](LICENSE.md).
+_The Meta-Agreements of the Organic Organization are derived from the [Holacracy Constitution](https://holacracy.com/constitution) created by HolacracyOne, LLC, licensed under Creative Commons Attribution ShareAlike 4.0 International License. This work is licensed under the same conditions. [Further information about the license can be found here](LICENSE.md)_.
