@@ -59,41 +59,41 @@ _Restrictions_ can't establish expectations, because thats the purpose of an _Ac
 
 All elements that are part of the _Circle_ _Organizational Structure_ described in this section (_Roles_, _Circles_, and _Restrictions_) can only be changed in the _Adapt Mode_ of its _Circle Meeting_.
 
-## 3. Direitos
+## 3. Rights
 
-Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seção:
+_Partners_ of the organization have two basic rights described in this section:
 
-### 3.1 Sem expectativas implícitas
+### 3.1 No implicit expectations
 
-_Parceiros_ podem recusar pedidos, caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar os pedidos que fizerem sentido para o _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
+_Partners_ may deny requests if there's no matching explicit _Accountability_ in the description of the _Role_ being requested. However, _Partners_ must always accept requests that make sense to their _Role_'s _Purpose_, even if no explicit _Accountability_ is recorded.
 
-### 3.2 Autoridade para agir
+### 3.2 Authority to act
 
-Ao perseguir o _Propósito_ dos seus _Papéis_, os _Parceiros_ da organização estão sempre autorizados a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
+While pursuing the _Purpose_ of one of their _Roles_, _Partners_ of the organization are always authorized to take action, unless an _Artifact_ or _Restriction_ says otherwise.
 
-## 4. Deveres
+## 4. Duties
 
-Os _Parceiros_ da organização têm alguns deveres básicos uns com os outros:
+_Partners_ of the organization have some duties towards one another:
 
-### 4.1 Expressar Papéis
+### 4.1 Expressing Roles
 
-Cada _Parceiro_ é responsável por monitorar como o _Propósito_ e as _Responsabilidades_ dos seus _Papéis_ são expressos, e comparar com a sua visão de sua expressão potencial ideal. Os _Parceiros_ devem identificar as lacunas entre a realidade atual e um potencial que sentem, cada lacuna sendo chamada de uma _Tensão_.
+Each _Partner_ is responsible for monitoring how the _Purpose_ and _Accountabilities_ of each of their _Roles_ are being expressed, and comparing that with their vision of ideal potential expression. _Partners_ also have to identify gaps between the current reality and a potential they sense, each one being a _Tension_.
 
-Os _Parceiros_ são responsáveis por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados por estes **Meta-Acordos**.
+_Partners_ are responsible for trying to resolve those _Tensions_, using the authorities and other mechanisms provided by these **Meta-Agreements**.  
 
-### 4.2 Transparência
+### 4.2 Transparency
 
-Quando solicitado, é esperado que os _Parceiros_ compartilhem todas as informações relevantes sobre o trabalho de seus _Papéis_, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes.
+When requested, it's expected that _Partners_ share all relevant information about the work of their _Roles_, including each project thei're working on, actions identified, prioritization criteria and relevant metrics.
 
-Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Upon request, it's also expected that _Partners_ give estimations and projections about possible completion dates of their works, even those projections shall not be considered deadlines or committments.
 
-### 4.3 Priorização
+### 4.3 Prioritization
 
-É esperado que os _Parceiros_ priorizem o seu trabalho em alinhamento com as prioridades do _Círculo_ definidas pelo _Elo Externo_, ou por qualquer outro processo que defina prioridades.
+It's expected that _Partners_ prioritize their work in alignment with _Circle_ priorities defined by the _Outer Link_, or by other process that sets priorities.
 
-### 4.4 Reuniões de Círculo
+### 4.4 Circle Meetings
 
-Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar nos seus _Papéis_.
+When requested by other _Circle Members_, _Partners_ must prioritize attending to _Circle Meetings_ instead of working on their _Roles_.
 
 ## 5. Reuniões de Círculo
 
