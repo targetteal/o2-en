@@ -75,8 +75,8 @@ An "Organization" is an entity created to express an [Evolutionary Purpose](#evo
 ### <span id="evolutionary-purpose">1.1 Evolutionary Purpose</span>
 An [Organization](#organization) has an "Evolutionary Purpose", which corresponds to the *deepest creative potential it can sustainably express in the world*. The Evolutionary Purpose is the [Purpose](#roles) of the broadest [Circle][#circles] in the [Organizational Structure](#organizational-structure).
 
-### <span id="parceiros">1.2 Parceiros</span>
-A [Organização](#organizacao) pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
+### <span id="partners">1.2 Partners</span>
+The [Organization](#organization) can have one or more "Partners", who are people that fill [Roles](#roles) and express the [Evolutionary Purpose](#evolutionary-purpose).
 
 ### <span id="tensions">1.3 Tensions</span>
 When pursuing the [Purpose](#roles) of one or more [Roles](#roles), [Partners](#partners) can identify a difference between the current reality and the potential they sense. These gaps, which may be issues or opportunities identified, are called "Creative Tensions", or simply "Tensions". Tensions move the [Organization](#organization) towards its [Evolutionary Purpose](#evolutionary-purpose).
@@ -124,35 +124,35 @@ Through its [Adapt Mode](#adapt-mode), a [Circle](#circles) may specify one of i
 
 [Restrictions](#restrictions) can't establish expectations, because that's the goal of an [Accountability](#roles). Nevertheless, a [Restriction](#restrictions) can demmand action, but only for the [Partners](#partners) on which the [Restriction](#restrictions) applies and in the specific condition that triggers it.
 
-## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
-Todos os [Parceiros](#parceiros) podem usufruir dos "Direitos" apresentados abaixo.
+## <span id="rights-and-duties">3. Rights and Duties</span>
+All [Partners](#partners) may enjoy the "Rights" presented below, but also are bound by their "Duties".
 
-### <span id="right-to-refuse-requests">3.1 Direito de recusar pedidos</span>
-[Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papeis) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
+### <span id="right-to-refuse-requests">3.1 Right to refuse requests</span>
+[Partners](#partners) may refuse requests, if there is no explicit corresponding [Accountability](#roles) in the description of the [Role](#roles) being requested. However, [Partners](#partners) must always accept requests that make sense to the [Purpose](#roles) of one of their [Roles](#roles), even if no explicit [Accountability](#roles) is recorded.
 
-### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span>
-Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros](#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](#dever-da-preservacao) os restrinja.
+### <span id="right-to-act-for-the-purpose">3.2 Right to act for the Purpose</span>
+When pursuing the [Purpose](#roles) of their [Roles](#roles), [Partners](#partners) are always authorized to take action, unless the [Duty of Preservation](#duty-of-preservation) restricts them.
 
-### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span>
-[Parceiros](#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
+### <span id="right-to-act-heroically">3.3 Right to act heroically</span>
+[Partners](#partners) may temporarily ignore these Meta-Agreements if this is useful and necessary for expressing the [Evolutionary Purpose](#evolutionary-purpose) of the [Organization](#organization). Initiatives or requests that have this quality are called "Heroic Acts". [Partners](#partners) must seek to repair any damage caused after a Heroic Act, by proposing changes to the [Organizational Structure](#organizational-structure) or even to these [Meta-Agreements](#meta-agreements) if necessary.
 
-### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span>
-[Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
+### <span id="right-to-leave-roles">3.4 Right to leave Roles</span>
+[Partners](#partners) may any time leave [Roles](#roles) they fill in one or more [Circles](#circles), unless they otherwise agreed with the [Outer Link](#outer-link) or any process that assigns [Partners](#partners) to [Roles](#roles).
 
-### <span id="dever-da-expressao">3.5 Dever da expressão</span>
-Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papeis) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#rights-and-duties) ou propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional).
+### <span id="duty-of-expression">3.5 Duty of expression</span>
+Each [Partner](#partners) is responsible for identifying one's [Tensions](#tensions) through each [Role](#roles) one fills. Each [Partner](#partners) is also responsible for trying to solve those [Tensions](#tensions), engaging other [Partners](#partners) in their [Duties](#rights-and-duties) or by proposing changes to the [Organizational Structure](#organizational-structure).
 
-### <span id="dever-da-transparencia">3.6 Dever da transparência</span>
-Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+### <span id="duty-of-transparency">3.6 Duty of transparency</span>
+When requested, it is expected that [Partners](#partners) share any relevant information about their [Role](#roles)'s work, including each project they are working on, actions identified, prioritization criteria and relevant metrics. When requested, it is also expected that [Partners](#partners) provide estimates and projections of possible conclusion dates of their work, even though those projections shall not be considered deadlines or committments.
 
-### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
-Os [Parceiros](#parceiros) devem priorizar o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
+### <span id="duty-of-prioritization">3.7 Duty of prioritization</span>
+[Partners](#partners) must prioritize their work in alignment with [Circle](#circles) priorities defined by the [Outer Link](#outer-link), or by any other process that establishes priorities for the [Circle](#circle).
 
-### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span>
-Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
+### <span id="duty-of-attendance">3.8 Duty of attendance</span>
+When requested, [Partners](#partners) must prioritize attending to the [Circle Meetings](#circle-meetings) over working on their [Roles](#roles).
 
-### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
-Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restrictions) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+### <span id="duty-of-preservation">3.9 Duty of preservation</span>
+[Partners](#partners) through the [Roles](#roles) they fill must not impact the [Artifacts](#roles) of other [Roles](#roles) contained in the same [Circle](#circles), without before obtaining an explicit permission from the [Partner](#partners) that fills the corresponding [Role](#roles). [Partners](#partners) also must note the [Restrictions](#restrictions) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
