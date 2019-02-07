@@ -134,7 +134,7 @@ All [Partners](#partners) may enjoy the "Rights" presented below, but also are b
 When pursuing the [Purpose](#roles) of their [Roles](#roles), [Partners](#partners) are always authorized to take action, unless the [Duty of Preservation](#duty-of-preservation) restricts them.
 
 ### <span id="right-to-act-heroically">3.3 Right to act heroically</span>
-[Partners](#partners) may temporarily ignore these Meta-Agreements if this is useful and necessary for expressing the [Evolutionary Purpose](#evolutionary-purpose) of the [Organization](#organization). Initiatives or requests that have this quality are called "Heroic Acts". [Partners](#partners) must seek to repair any damage caused after a Heroic Act, by proposing changes to the [Organizational Structure](#organizational-structure) or even to these [Meta-Agreements](#meta-agreements) if necessary.
+[Partners](#partners) may temporarily ignore these [Meta-Agreements](#meta-agreements) if this is useful and necessary for expressing the [Evolutionary Purpose](#evolutionary-purpose) of the [Organization](#organization). Initiatives or requests that have this quality are called "Heroic Acts". [Partners](#partners) must seek to repair any damage caused after a Heroic Act, by proposing changes to the [Organizational Structure](#organizational-structure) or even to these [Meta-Agreements](#meta-agreements) if necessary.
 
 ### <span id="right-to-leave-roles">3.4 Right to leave Roles</span>
 [Partners](#partners) may any time leave [Roles](#roles) they fill in one or more [Circles](#circles), unless they otherwise agreed with the [Outer Link](#outer-link) or any process that assigns [Partners](#partners) to [Roles](#roles).
