@@ -122,7 +122,7 @@ Through its [Adapt Mode](#adapt-mode), a [Circle](#circles) may specify one of i
 
 #### <span id="restrictions-cant-establish-expectations">2.5.1 Restrictions can't establish expectations</span>
 
-[Restrictions](#restrictions) can't establish expectations, because that's the goal of an [Accountability](#roles). Nevertheless, a [Restriction](#restrictions) can demmand action, but only for the [Partners](#partners) on which the [Restriction](#restrictions) applies and in the specific condition that triggers it.
+[Restrictions](#restrictions) can't establish expectations, because that is the goal of an [Accountability](#roles). Nevertheless, a [Restriction](#restrictions) can demmand action, but only for the [Partners](#partners) on which the [Restriction](#restrictions) applies and in the specific condition that triggers it.
 
 ## <span id="rights-and-duties">3. Rights and Duties</span>
 All [Partners](#partners) may enjoy the "Rights" presented below, but also are bound by their "Duties".
@@ -149,28 +149,28 @@ When requested, it is expected that [Partners](#partners) share any relevant inf
 [Partners](#partners) must prioritize their work in alignment with [Circle](#circles) priorities defined by the [Outer Link](#outer-link), or by any other process that establishes priorities for the [Circle](#circle).
 
 ### <span id="duty-of-attendance">3.8 Duty of attendance</span>
-When requested, [Partners](#partners) must prioritize attending to the [Circle Meetings](#circle-meetings) over working on their [Roles](#roles).
+When requested, [Partners](#partners) must prioritize attending to the [Circle Meetings](#circle-meetings) even over working on their [Roles](#roles).
 
 ### <span id="duty-of-preservation">3.9 Duty of preservation</span>
 [Partners](#partners) through the [Roles](#roles) they fill must not impact the [Artifacts](#roles) of other [Roles](#roles) contained in the same [Circle](#circles), without before obtaining an explicit permission from the [Partner](#partners) that fills the corresponding [Role](#roles). [Partners](#partners) also must note the [Restrictions](#restrictions) defined in the [Organizational Structure](#organizational-structure) and follow the conditions set out therein.
 
-## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
+## <span id="circle-meetings">4. Circle Meetings</span>
 
-[Membros do Círculo](#circle-members) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 5 "Modos" especiais de reunião descritos na seção seguinte: [Revisar](#modo-revisar), [Sincronizar](#modo-sincronizar), [Adaptar](#modo-adaptar), [Selecionar](#modo-selecionar) e [Cuidar](#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](#secretario) e facilitadas pelo [Facilitador](#facilitador), dois [Papéis Essenciais](#papeis-essenciais).
+[Circle Members](#circle-members) gather regularly in a space called "Circle Meeting" to perform one or more of the 5 special "Modes" described in the upcoming section: [Review](#review-mode), [Sync](#sync-mode), [Adapt](#adapt-mode), [Select](#select-mode), and [Care](#care-mode). Circle Meetings are scheduled by the [Secretary](#secretary) and facilitated by the [Facilitator](#facilitator), two [Essential Roles](#essential-roles).
 
-### <span id="somente-membros-podem-processar-tensoes">4.1 Somente Membros podem processar tensões</span>
+### <span id="only-members-can-process-tensions">4.1 Only Members can process Tensions</span>
 
-[Parceiros](#parceiros) que não são [Membros do Círculo](#circle-members) não podem processar [Tensões](#tensoes) nas [Reuniões de Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#circle-members) para ajudar no processamento de uma [Tensão](#tensoes) específica.
+[Partners](#partners) that are not [Circle Members](#circle-members) cannot process [Tensions](#tensions) in [Circle Meetings](#circle-meetings), unless they are invited by a [Circle Member](#circle-members) to help in the processing of a specific [Tension](#tensions).
 
-### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
+### <span id="meeting-format">4.2 Meeting Format</span>
 
-As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 [Modos](#reunioes-de-circulo), de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada [Modo](#reunioes-de-circulo) antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+[Circle Meetings](#circle-meetings) should start with a check-in round, where one at a time, each participant shares how one is coming to the meeting. The [Facilitator](#facilitator) then fills the meeting with one or more of the 5 [Modes](#circle-meetings), according to the time available and the needs of the [Circle](#circles). The [Facilitator](#facilitator) must declare the name, goal, and clarify the rules of each [Mode](#circle-meetings) before starting it. The [Circle Meetings](#circle-meetings) end with a closing round, where one at a time, each participant shares a final reflection about the meeting.
 
-#### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
+#### <span id="tension-list">4.2.1 Tension List</span>
 
-Os diferentes [Modos](#reunioes-de-circulo) são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos participantes. Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
+The different [Modes](#circle-meetings) are used to process specific [Tensions](#tensions) felt by the participants. Specially before [Sync](#sync-mode) and [Adapt](#adapt-mode), the [Facilitator](#facilitator) must ask the [Secretary](#secretary) to build a "Tension List" to process. Each participant feeling a [Tension](#tensions) must name it using two or three words. The [Secretary](#secretary) then captures the name of the [Tension](#tensions), along with the name of the participant.
 
-#### <span id="uma-tensao-de-cada-vez">4.2.2 Uma Tensão de cada vez</span>
+#### <span id="one-tension-at-a-time">4.2.2 One Tension at a time</span>
 
 Depois que a lista de [Tensões](#tensoes) for construída, o [Facilitador](#facilitador) deve focar em uma [Tensão](#tensoes) de cada vez. Isto significa que o [Facilitador](#facilitador) não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão](#tensoes) sendo processada, a não ser que o participante que sentiu a [Tensão](#tensoes) originalmente acredite que aquela perspectiva seja útil.
 
