@@ -164,7 +164,7 @@ When requested, [Partners](#partners) must prioritize attending to the [Circle M
 
 ### <span id="meeting-format">4.2 Meeting Format</span>
 
-[Circle Meetings](#circle-meetings) should start with a check-in round, where one at a time, each participant shares how one is coming to the meeting. The [Facilitator](#facilitator) then fills the meeting with one or more of the 5 [Modes](#circle-meetings), according to the time available and the needs of the [Circle](#circles). The [Facilitator](#facilitator) must declare the name, goal, and clarify the rules of each [Mode](#circle-meetings) before starting it. The [Circle Meetings](#circle-meetings) end with a closing round, where one at a time, each participant shares a final reflection about the meeting.
+[Circle Meetings](#circle-meetings) should start with a check-in round, where one at a time, each participant shares how one is coming to the meeting. The [Facilitator](#facilitator) then fills the meeting with one or more of the 5 [Modes](#circle-meetings), according to the time available and the needs of the [Circle](#circles). The [Facilitator](#facilitator) must declare the name, goal, and clarify the rules of each [Mode](#circle-meetings) before starting it. [Circle Meetings](#circle-meetings) end with a closing round, where one at a time, each participant shares a final reflection about the meeting.
 
 #### <span id="tension-list">4.2.1 Tension List</span>
 
@@ -172,25 +172,25 @@ The different [Modes](#circle-meetings) are used to process specific [Tensions](
 
 #### <span id="one-tension-at-a-time">4.2.2 One Tension at a time</span>
 
-Depois que a lista de [Tensões](#tensoes) for construída, o [Facilitador](#facilitador) deve focar em uma [Tensão](#tensoes) de cada vez. Isto significa que o [Facilitador](#facilitador) não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão](#tensoes) sendo processada, a não ser que o participante que sentiu a [Tensão](#tensoes) originalmente acredite que aquela perspectiva seja útil.
+After the [Tension](#tensions) List is built, the [Facilitator](#facilitator) must focus in one [Tension](#tension) at a time. This means the [Facilitator](#facilitator) should not allow other participants to try to include their perspectives in the [Tension](#tension) being processed, unless the participant who originally felt the [Tension](#tension) believes that perspective is useful.
 
-### <span id="restricoes-de-facilitacao">4.3 Restrições de Facilitação</span>
+### <span id="facilitation-restrictions">4.3 Facilitation Restrictions</span>
 
-Durante a facilitação dos [Modos](#reunioes-de-circulo), o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do [Modo](#reunioes-de-circulo) e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restrictions) que limitem como os [Modos](#reunioes-de-circulo) são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
+During the facilitation of each [Mode](#circle-meetings), the [Facilitator](#facilitator) can make choices about which patterns to use and how to facilitate each moment. However, the [Facilitator](#facilitator) must always keep one's choices aligned with the goal of each [Mode](#circle-meetings) and the necessities of the [Circle](#circles). A [Circle](#circles) may also adopt one or more [Restrictions](#restrictions) that further limit how each [Mode](#cicle-meetings) is facilitated. The [Facilitator](#facilitator) must respect those limitations.
 
-### <span id="modo-revisar">4.4 Modo Revisar</span>
+### <span id="review-mode">4.4 Review Mode</span>
 
-O "Modo Revisar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *dar transparência ao trabalho realizado pelo [Círculo](#circulos)*. Cabe ao [Facilitador](#facilitador) decidir como especificamente o [Modo Revisar](#modo-revisar) é conduzido, exceto se uma [Restrição](#restrictions) determinar o contrário.
+The "Review Mode" is a moment of the [Circle Meeting](#circle-meetings) whose goal is to *give transparency about the work performed by the [Circle](#circles)*. It is up to the [Facilitator](#facilitator) to decide specifically how the Review Mode is facilitated, unless a [Restriction](#restrictions) determines otherwise.
 
-> Veja os **Padrões para Revisar** na [Biblioteca de Padrões][library].
+> Check the **Patterns for Reviewing** in the [Pattern Library][library].
 
-### <span id="modo-sincronizar">4.5 Modo Sincronizar</span>
+### <span id="sync-mode">4.5 Sync Mode</span>
 
-O "Modo Sincronizar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *rapidamente processar [Tensões](#tensoes) que não exigem o [Círculo](#circulos) atualizar a sua [Estrutura Organizacional](#estrutura-organizacional)*. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes) engaje os outros nos seus [Papéis](#papeis) e [Deveres](#rights-and-duties), até que um caminho para resolver a [Tensão](#tensoes) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
+The "Sync Mode" is a moment of the [Circle Meeting](#circle-meetings) whose goal is to *quickly process [Tensions](#tensions) that do not require the [Circle](#circles) to update its [Organizational Structure]*. Typical outputs of the Sync Mode include actions, projects, help requests and information sharing. The [Facilitator](#facilitator) must simply allow each participant who brought a [Tension](#tensions) to engage others in their [Roles](#roles) and [Duties](#rights-and-duties), until a path for solving the [Tension](#tensions) is identified. The [Secretary](#secretary) must record any requests accepted by other participants in their [Roles](#roles), or as [Heroic Acts](#right-to-act-heroically).
 
-> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões][library].
+> Check the **Patterns for Synchronizing** in the [Pattern Library][library].
 
-### <span id="modo-adaptar">4.6 Modo Adaptar</span>
+### <span id="adapt-mode">4.6 Adapt Mode</span>
 
 O "Modo Adaptar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
 
