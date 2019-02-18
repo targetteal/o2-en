@@ -215,28 +215,28 @@ The [Facilitator](#facilitator) must give each participant the opportunity to ra
 
 #### <span id="valid-objections">4.6.4 Valid Objections</span>
 
-Uma [Objeção](#objecoes) a uma [Proposta](#proposta) de mudança na [Estrutura Organizacional](#estrutura-organizacional) é considerada válida caso o [Objetor](#objecoes) acredite que ela atenda a todos os 4 critérios a seguir:
+An [Objection](#objections) to a [Proposal](#proposal) that seeks to change the [Organizational Structure](#organizational-structure) is considered valid if the [Objector](#objecoes) believes that it meets all the 4 following criteria:  
 
-1. **Degradação**. A [Objeção](#objecoes) é sobre algum mal que a [Proposta](#proposta) poderia causar ao [Círculo](#circulos).
-2. **Relacionada ao Papéis**. A [Objeção](#objecoes) afeta um dos [Papéis](#papeis) do [Objetor](#objecoes) no [Círculo](#circulos).
-3. **Causalidade**. Este mal é causado pela [Proposta](#proposta), ou seja, ele não existiria sem ela.
-4. **Baseada em dados**. A [Objeção](#objecoes) é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o [Círculo](#circulos) não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
+1. **Degradation**. An [Objection](#objections) is about a harm that the [Proposal](#proposal) may cause to the [Circle](#circles).
+2. **Causality**. This harm is caused by the [Proposal](#proposal), that is, it does not exist without it.
+3. **Data-based**. The [Objection](#objections) is based on current data or past experiences. In other words, it is not an anticipation of future events. However, if the alleged harm is so disastrous that the [Circle](#circles) wouldn not be able to adapt in the future, this criteria can be disconsidered.
+4. **Role-related**. The [Objection](#objections) affects one of the [Objector](#objections) [Roles](#roles) in the [Circle](#circles).
 
-Ao validar [Objeções](#objecoes), o [Facilitador](#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. [Objeções](#objecoes) válidas devem ser integradas.
+When validating [Objection](#objections), the [Facilitator](#facilitator) must not judge the accuracy of the arguments presented, but only if they were presented with logical reasoning and are thus reasonable. Valid [Objection](#objections) must be integrated.
 
-#### <span id="integracao">4.6.5 Integração </span>
+#### <span id="integration">4.6.5 Integration </span>
 
-Se houver [Objeções](#objecoes), o [Facilitador](#facilitador) deve facilitar um processo para integrá-las à proposta, uma de cada vez. O objetivo da "Integração" é modificar a [Proposta](#proposta) para que ela resolva a [Tensão](#tensoes) original, mas sem causar a [Objeção](#objecoes) levantada. Se a [Proposta](#proposta) for alterada, o [Facilitador](#facilitador) deve dar mais uma oportunidade para os participantes levantarem [Objeções](#objecoes). Se uma [Proposta](#proposta) estiver levando muito tempo para integrar, o [Facilitador](#facilitador) pode descartar a [Proposta](#proposta) inteiramente, a fim de passar para o próximo item da [Lista de Tensões](#lista-de-tensoes).
+If there are [Objection](#objections), the [Facilitator](#facilitator) must facilitate a process for integrating them to the [Proposal](#proposal). The goal of "Integration" is to modify the [Proposal](#proposal) so it would still solve the original [Tension](#tensions), but without causing the raised [Objection](#objections). If the [Proposal](#proposal) is modified, the [Facilitator](#facilitator) must give the participants another opportunity to raise [Objections](#objections). If a [Proposal](#proposal) is taking too much time to integrate, the [Facilitator](#facilitator) can discard the [Proposal](#proposal) entirely, in order to move to the next item on the [Tension List](#tension-list).
 
-#### <span id="quebra-dos-meta-acordos">4.6.6 Quebra dos Meta-Acordos</span>
+#### <span id="meta-agreement-breach">4.6.6 Meta-Agreement Breach</span>
 
-Qualquer participante pode levantar uma [Objeção](#objecoes) de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta](#proposta) viola uma das regras descritas nestes [Meta-Acordos](#meta-acordos). O [Facilitador](#facilitador) deve então pedir ao [Secretário](#secretario) que interprete se isto é verdadeiro ou não. Esta [Objeção](#objecoes) especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
+Any participant can raise an [Objection](#objections) of "Meta-Agreement Breach" if one considers the [Proposal](3proposal) violates one of these [Meta-Agreements](#meta-agreements). The [Facilitator](#facilitator) must then ask the [Secretary](#secretary) to interpret whether this is true or not. This special [Objection](#objections) does not need to be validated with the criteria used normaly, but it should be integrated like other ones.
 
-#### <span id="propostas-assincronas">4.6.7 Propostas Assíncronas</span>
+#### <span id="asynchronous-proposals">4.6.7 Asynchronous Proposals</span>
 
-Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reuniao-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](#circle-members) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma [Reunião de Círculo](#reuniao-de-circulo) convencional.
+Changes to the [Circle](#circles) [Organizational Structure](#organizational-structure) can be proposed outside [Circle Meetings](#circle-meetings) and are automatically approved if all [Circle Members](#circle-members) declare they do not have any [Objections](#objections). If any [Objection](#objections) is raised or a participant declares one would like to treat the [Tension](#tensions) in a conventional way, the [Proposal](#proposal) must be escalated to the [Adapt Mode](#adapt-mode) of a regular [Circle Meeting](#circle-meetings).
 
-> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões][library].
+> Check the **Patterns for Adapting** in the [Pattern Library][library].
 
 ### <span id="modo-selecionar">4.7 Modo Selecionar</span>
 
