@@ -192,28 +192,28 @@ The "Sync Mode" is a moment of the [Circle Meeting](#circle-meetings) whose goal
 
 ### <span id="adapt-mode">4.6 Adapt Mode</span>
 
-O "Modo Adaptar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
+The "Adapt Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal is to *process [Tensions](#tensions) into changes to the [Circle](#circles) [Organizational Structure](#organizational-structure)*. The only valid and allowed outputs in Adapt Mode are:
 
-- Adicionar, remover ou alterar [Papéis](#papeis) do [Círculo](#circulos);
-- Adicionar, remover ou alterar [Círculos](#circulos) internos;
-- Adicionar, remover ou alterar [Restrições](#restrictions) do [Círculo](#circulos);
-- Mover seus [Papéis](#papeis), [Restrições](#restrictions) ou [Círculos](#circulos) internos para um [Círculo](#circulos) interno;
-- Mover [Papéis](#papeis), [Restrições](#restrictions) ou [Círculos](#circulos) de um [Círculo](#circulos) interno para si;
-- Transformar os seus [Papéis](#papeis) em [Círculos](#circulos) internos, e vice-versa.
+- Adding, removing or modifying [Roles](#roles) of the [Circle](#circles);
+- Adding, removing or modifying inner [Circles](#circles);
+- Adding, removing or modifying [Restrictions](#restrictions) of the [Circle](#circles);
+- Moving its [Roles](#roles), [Restrictions](#restrictions) or inner [Circles](#circles) to an inner [Circle](#circles);
+- Moving [Roles](#roles), [Restrictions](#restrictions) or inner [Circles](#circles) of an inner [Circle](#circles) to itself;
+- Transforming one of its [Roles](#roles) in an inner [Circles](#circles), and vice versa.
 
-#### <span id="proposta">4.6.1 Proposta</span>
+#### <span id="proposal">4.6.1 Proposal</span>
 
-Durante o [Modo Adaptar](#modo-adaptar), o [Facilitador](#facilitador) deve facilitar um processo que permita ao participante que trouxe a [Tensão](#tensoes), o "Proponente", construir uma "Proposta" para resolvê-la. Esta Proposta deve conter somente as operações descritas como saídas válidas do [Modo Adaptar](#modo-adaptar).
+During the [Adapt Mode](#adapt-mode), the [Facilitator](#facilitator) must facilitate a process that allows the participant who brought the [Tension](#tensions), the "Proponent", to craft a "Proposal" for solving it. This Proposal must contain only the operations described as valid outputs for the [Adapt Mode](#adapt-mode).
 
-#### <span id="apresentacao-de-exemplos">4.6.2 Apresentação de Exemplos </span>
+#### <span id="examples">4.6.2 Examples</span>
 
-O [Proponente](#proponente) de uma mudança na [Estrutura Organizacional](#estrutura-organizacional) deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta](#proposta) construída resolveria ou reduziria a [Tensão](#tensoes). Se o [Facilitador](#facilitador) considerar que o [Proponente](#proponente) não foi capaz de apresentar exemplos e esclarecimentos, o [Facilitador](#facilitador) deve descartar a [Proposta](#proposta). No entanto, o [Facilitador](#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+The [Proponent](#proposal) of change to the [Organizational Structure](#organizational-structure) must be able to present examples of past or present situations where each part of the crafted [Proposal](#proposal) would solve or reduce the [Tension](#tensions). If the [Facilitator](#facilitator) considers the [Proponent](#proposal) was not able to present the required examples and clarifications, the [Facilitator](#facilitator) must discard the [Proposal](#proposal). However, the [Facilitator](#facilitator) must not judge the accuracy of the arguments presented, but only if they were presented with logical reasoning and are thus reasonable.
 
-#### <span id="objecoes">4.6.3 Objeções</span>
+#### <span id="objections">4.6.3 Objections</span>
 
-O [Facilitador](#facilitador) deve permitir que cada participante tenha a oportunidade de levantar uma ou mais "Objeções" à [Proposta](#proposta) apresentada. Uma Objeção é uma razão pela qual a [Proposta](#proposta) causa mal e move o [Círculo](#circulos) para trás. O [Facilitador](#facilitador) pode fazer perguntas para ajudar o "Objetor" a entender se o que ele trouxe são "Objeções Válidas" ou não.
+The [Facilitator](#facilitator) must give each participant the opportunity to raise one or more "Objections" to the [Proposal](#proposal) presented. An Objection is a reason the [Proposal](#proposal) would cause harm and move the [Circle](#circles) backwards. The [Facilitator](#facilitator) may ask questions to help the "Objector" understand whether what one brought are "Valid Objections" or not.
 
-#### <span id="objecoes-validas">4.6.4 Objeções Válidas</span>
+#### <span id="valid-objections">4.6.4 Valid Objections</span>
 
 Uma [Objeção](#objecoes) a uma [Proposta](#proposta) de mudança na [Estrutura Organizacional](#estrutura-organizacional) é considerada válida caso o [Objetor](#objecoes) acredite que ela atenda a todos os 4 critérios a seguir:
 
