@@ -238,37 +238,37 @@ Changes to the [Circle](#circles) [Organizational Structure](#organizational-str
 
 > Check the **Patterns for Adapting** in the [Pattern Library][library].
 
-### <span id="modo-selecionar">4.7 Modo Selecionar</span>
+### <span id="select-mode">4.7 Select Mode</span>
 
-O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#circle-members) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*. O [Facilitador](#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](#parceiro) eleito.
+The "Select Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal is to *choose [Circle Members](#circle-members) to fill one or more of the three [Elected Essential Roles](#elected-essential-roles)*. THe [Facilitator](#facilitator) must facilitate the Select Mode through a democratic election process, where the majority of votes will determine the elected [Partner](#partners).
 
-> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões][library].
+> Check the **Patterns for Selecting** in the [Pattern Library][library].
 
-#### <span id="selecionar-imediatamente">4.7.1 Selecionar imediatamente</span>
+#### <span id="select-immediately">4.7.1 Select immediately</span>
 
-Qualquer [Membro do Círculo](#circle-members) pode pedir para o [Facilitador](#facilitador) pular para o [Modo Selecionar](#modo-selecionar) e realizar uma eleição para um ou mais dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). Se este for o caso, o [Facilitador](#facilitador) deve fazer isso imediatamente.
+Any [Circle Member](#circle-member) may ask the [Facilitator](#facilitator) to jump to the [Select Mode](#select-mode) and perform an election for one or more of the [Elected Essential Roles](#elected-essential-roles). If that is the case, the [Facilitator](#facilitator) must do this immediately.
 
-#### <span id="selecionar-apenas-em-reunioes-de-circulo">4.7.2 Selecionar apenas em Reuniões de Círculo</span>
+#### <span id="select-only-in-circle-meetings">4.7.2 Select only in Circle Meetings</span>
 
-O processo de eleição dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos) deve ser feito apenas dentro de uma [Reunião de Círculo](#reuniao-de-circulo).
+The election process of the 3 [Elected Essential Roles](#elected-essential-roles) must be done only inside a [Circle Meeting](#circle-meeting).
 
-#### <span id="parceiros-elegiveis">4.7.3 Parceiros elegíveis</span>
+#### <span id="eligible-partners">4.7.3 Eligible Partners</span>
 
-Todos e apenas os [Membros do Círculo](#circle-members) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo [Círculo](#circulos).
+All and only [Circle Members](#circle-members) are eligible for the 3 [Elected Essential Roles](#elected-essential-roles), with the exception of the [Partner](#partners) that fills the [Outer Link](#outer-link) [Role](#roles), who is not eligible as [Facilitator](#facilitator) or [Inner Link](#inner-link) of the same [Circle](#circles).
 
-#### <span id="desempate">4.7.4 Desempate</span>
+#### <span id="tie-breaker">4.7.4 Tie Breaker</span>
 
-Em caso de empate na eleição de algum [Papel Essencial Eleito](#papeis-essenciais-eleitos), o [Facilitador](#facilitador) deverá escolher um dos seguintes critérios para desempatar:
+In case of tie for the election of any [Elected Essential Roles](#elected-essential-roles), the [Facilitator](#facilitator) must choose one of the following criteria to untie:
 
-- O [Parceiro](#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
-- O [Parceiro](#parceiros) que já está desempenhando o [Papel](#papeis), se apenas um dos candidatos empatados está;
-- Aleatoriamente escolher um dos candidatos empatados.
+- The [Partner](#partners) that nominated oneself, if only one of the tied candidates has;
+- The [Partner](#partners) that is already filling the [Role](#roles), if only one of the tied candidates is;
+- Randomly choosing one of the tied candidates.
 
-### <span id="modo-cuidar">4.8 Modo Cuidar</span>
+### <span id="care-mode">4.8 Care Mode</span>
 
-O "Modo Cuidar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#rights-and-duties).
+The "Care Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal is to *take care of the tribal space and nurture the quality of relationships between the participants*. This [Mode](#circle-meetings) must not be used to change the [Circle](#circles) [Organizational Structure](#organizational-structure) or engage [Partners](#partners) in their [Roles](#roles) and [Duties](#rights-and-duties).
 
-> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][library].
+> Check the **Patterns fore Caring** in the [Pattern Library][library].
 
 ## <span id="papeis-essenciais">5. Papéis Essenciais</span>
 
