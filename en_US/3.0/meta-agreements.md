@@ -18,13 +18,13 @@ This document does not define how the [Meta-Agreements](#meta-agreements) are ad
 2. [Organizational Structure](#organizational-structure)
 	1. [Roles](#roles)
 	2. [Circles](#circles)
-		1. [Circles can't modify their definition](#circles-cant-modify-their-definition)
-		2. [Circles can't structure their internal Circles](#circles-cant-structure-their-internal-circles)
+		1. [Circles cannot modify their definition](#circles-cannot-modify-their-definition)
+		2. [Circles cannot structure their internal Circles](#circles-cannot-structure-their-internal-circles)
 	3. [Circle Artifacts](#circle-artifacts)
 		1. [Circles can delegate Artifacts](#circles-can-delegate-artifacts)
 	4. [Circle Members](#circle-members)
 	5. [Restrictions](#restrictions)
-		1. [Restrictions can't establish expectations](#restrictions-cant-establish-expectations)
+		1. [Restrictions cannot establish expectations](#restrictions-cannot-establish-expectations)
 3. [Rights and Duties](#rights-and-duties)
 	1. [Right to refuse requests](#right-to-refuse-requests)
 	2. [Right to act for the Purpose](#direito-de-agir-para-o-proposito)
@@ -96,12 +96,12 @@ When pursuing the [Purpose](#roles) of one or more [Roles](#roles), [Partners](#
 ### <span id="circles">2.2 Circles</span>
 A "Circle" is a [Role](#roles) that has the authority to break itself down in smaller [Roles](#roles), contained within itself. When a [Role](#roles) is transformed into a Circle, the [Partners](#partners) who filled it become the [Outer Link](#outer-link) of that [Circle](#circle). [Circles](#circles) are defined exactly as [Roles](#roles), that is, through the elements name, [Purpose](#roles), [Accountabilities](#roles), and [Artifacts](#roles).
 
-#### <span id="circles-cant-modify-their-definition">2.2.1 Circles can't modify their definition</span>
-A [Circle](#circles) may govern its own [Roles](#roles) and [Restrictions](#restrictions), but it can't modify its own definition, because that should be made in the outer [Circle](#circle) which contains it.
+#### <span id="circles-cannot-modify-their-definition">2.2.1 Circles cannot modify their definition</span>
+A [Circle](#circles) may govern its own [Roles](#roles) and [Restrictions](#restrictions), but it cannot modify its own definition, because that should be made in the outer [Circle](#circle) which contains it.
 
-#### <span id="circulos-cant-structure-their-inner-circles">2.2.2 Circles can't structure their inner Circles</span>
+#### <span id="circulos-cannot-structure-their-inner-circles">2.2.2 Circles cannot structure their inner Circles</span>
 
-A [Circle](#circles) can't modify the [Roles](#roles), [Circles](#circles) and [Restrictions](#restrictions) of an inner [Circle](#circles) directly. However, a [Circle](#circles) can perform some operations in its [Adapt Mode](#adapt-mode), like moving [Roles](#roles) from itself to one of its inner [Circles](#circles) and vice versa.
+A [Circle](#circles) cannot modify the [Roles](#roles), [Circles](#circles) and [Restrictions](#restrictions) of an inner [Circle](#circles) directly. However, a [Circle](#circles) can perform some operations in its [Adapt Mode](#adapt-mode), like moving [Roles](#roles) from itself to one of its inner [Circles](#circles) and vice versa.
 
 ### <span id="circle-artifacts">2.3 Circle Artifacts</span>
 When a [Circle](#circles) has [Artifacts](#roles) in its definition, only [Circle Members](#circle-members) may impact these [Artifacts](#roles) without violating the [Duty of preservation](#duty-of-preservation).
@@ -120,9 +120,9 @@ Through its [Adapt Mode](#adapt-mode), a [Circle](#circles) may specify one of i
 
 "Restrictions" are limitations of authority that apply to all [Roles](#roles) of a [Circle](#circles). Restrictions are composed of a name and a description. Unless otherwise specified in their definition, the effect of a Restriction applies to all [Roles](#roles) and inner [Circles](#circles) from where it is defined. A Restriction is part of a [Circle](#circles), as well as a [Role](#roles) or an inner [Circle](#circles).
 
-#### <span id="restrictions-cant-establish-expectations">2.5.1 Restrictions can't establish expectations</span>
+#### <span id="restrictions-cannot-establish-expectations">2.5.1 Restrictions cannot establish expectations</span>
 
-[Restrictions](#restrictions) can't establish expectations, because that is the goal of an [Accountability](#roles). Nevertheless, a [Restriction](#restrictions) can demmand action, but only for the [Partners](#partners) on which the [Restriction](#restrictions) applies and in the specific condition that triggers it.
+[Restrictions](#restrictions) cannot establish expectations, because that is the goal of an [Accountability](#roles). Nevertheless, a [Restriction](#restrictions) can demmand action, but only for the [Partners](#partners) on which the [Restriction](#restrictions) applies and in the specific condition that triggers it.
 
 ## <span id="rights-and-duties">3. Rights and Duties</span>
 All [Partners](#partners) may enjoy the "Rights" presented below, but also are bound by their "Duties".
@@ -280,7 +280,7 @@ When a [Circle](#circles) has two or more [Partners](#partners), it must elect i
 
 ### <span id="modifying-essential-roles">5.2 Modifying Essential Roles</span>
 
-The [Essential Roles](#essential-roles) of each [Circle](#circles) can be modified during the [Adapt-Mode](#adapt-mode). However, the following restrictions apply:
+The [Essential Roles](#essential-roles) of each [Circle](#circles) can be modified during the [Adapt Mode](#adapt-mode). However, the following restrictions apply:
 
 - The name and the [Purpose](#roles) of the [Essential Roles](#essential-roles) cannot be modified;
 - New [Accountabilities](#roles) and [Artifacts](#roles) cannot be added to the [Outer Link](#outer-link) [Role](#roles);
@@ -289,9 +289,9 @@ The [Essential Roles](#essential-roles) of each [Circle](#circles) can be modifi
 
 #### <span id="essential-role-modifications-do-not-propagate">5.2.1 Essential Role modifications do not propagate</span>
 
-Modifying the [Essential Roles](#essential-roles) of a [Circle](#circles) applies only to the [Circle](#circles) where de modification took place. That is, it does not propagate to inner [Circles](#circles).
+Modifying the [Essential Roles](#essential-roles) of a [Circle](#circles) applies only to the [Circle](#circles) where the modification took place. That is, it does not propagate to inner [Circles](#circles).
 
-### <span id="outer-link-assignment">5.3 Outer Link Assignment/span>
+### <span id="outer-link-assignment">5.3 Outer Link Assignment</span>
 
 The [Outer Link](#outer-link) is chosen by the outer [Circle](#circles) by whatever process that assigns [Partners](#partners) to [Roles](#roles) in the outer [Circle](#circles). The [Outer Link](#outer-link) of the outermost [Circle](#circles) is determined by the same process that adopted these [Meta-Agreements](#meta-agreements).
 
@@ -303,7 +303,7 @@ The [Outer Link](#outer-link) is accountable for assining [Partners](#partners) 
 
 The [Role](#role) of the "Facilitator" has the following initial definition:
 
-**Purpose**: _Healthy Circle Meetings aligned with the [Meta-Agreements](#meta-agreements)_
+**Purpose**: _Healthy [Circle Meetings](#circle-meetings) aligned with the [Meta-Agreements](#meta-agreements)_
 
 **Accountabilities**:
 - Facilitating the [Circle Meetings](#circle-meetings)
