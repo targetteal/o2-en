@@ -60,9 +60,9 @@ This document does not define how the [Meta-Agreements](#meta-agreements) are ad
 5. [Essential Roles](#essential-roles)
 	1. [Elected Essential Roles](#elected-essential-roles)
 	2. [Modifying Essential Roles](#modifying-the-essential-roles)
-		1. [Essential Role modifications don't propagate](#alteracoes-nos-papeis-essenciais-nao-propagam)
+		1. [Essential Role modifications do not propagate](#essential-role-modifications-do-not-propagate)
 	3.  [Outer Link Assignment](#outer-link-assignment)
-	4. [Role Assignments](#role-assignments)
+	4. [Assigning Partners to Roles](#assigning-partners-to-roles)
 	5. [Facilitator](#facilitator)
 	6. [Secretary](#secretary)
 	7. [Outer Link](#outer-link)
@@ -94,7 +94,7 @@ When pursuing the [Purpose](#roles) of one or more [Roles](#roles), [Partners](#
 - Zero or more "Artifacts", which are assets the Role can exclusively control and regulate on behalf of the [Organization](#organization).
 
 ### <span id="circles">2.2 Circles</span>
-A "Circle" is a [Role](#roles) that has the authority to break itself down in smaller [Roles](#roles), contained within itself. When a [Role](#roles) is transformed into a Circle, the [Partners](#partners) who filled it become the [Outer Link](#outer-link) of that [Circle](#circle). [Circles](#circles) are defined exactly as [Roles](#roles), that is, through the elements name, [Purpose](#roles), [Accountabilities](#roles), and [Artifacts](#artifacts).
+A "Circle" is a [Role](#roles) that has the authority to break itself down in smaller [Roles](#roles), contained within itself. When a [Role](#roles) is transformed into a Circle, the [Partners](#partners) who filled it become the [Outer Link](#outer-link) of that [Circle](#circle). [Circles](#circles) are defined exactly as [Roles](#roles), that is, through the elements name, [Purpose](#roles), [Accountabilities](#roles), and [Artifacts](#roles).
 
 #### <span id="circles-cant-modify-their-definition">2.2.1 Circles can't modify their definition</span>
 A [Circle](#circles) may govern its own [Roles](#roles) and [Restrictions](#restrictions), but it can't modify its own definition, because that should be made in the outer [Circle](#circle) which contains it.
@@ -270,83 +270,85 @@ The "Care Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal 
 
 > Check the **Patterns fore Caring** in the [Pattern Library][library].
 
-## <span id="papeis-essenciais">5. Papéis Essenciais</span>
+## <span id="essential-roles">5. Essential Roles</span>
 
-Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
+Each [Circle](#circles) contains 4 "Essential Roles" automatically created: [Outer Link](#outer-link), [Inner Link](#inner-link), [Facilitator](#facilitator), and [Secretary](#secretary).
 
-### <span id="papeis-essenciais-eleitos">5.1 Papéis Essenciais Eleitos</span>
+### <span id="elected-essential-roles">5.1 Elected Essential Roles</span>
 
-Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
+When a [Circle](#circles) has two or more [Partners](#partners), it must elect in its [Select Mode](#select-mode) the 3 "Elected Essential Roles" of [Facilitator](#facilitator), [Secretary](#secretary), and [Inner Link](#inner-link). The only exception is the outermost [Circle](#circles) in the [Organizational Structure](#organizational-structure), which must not elect the [Inner Link](#inner-link).
 
-### <span id="alteracoes-nos-papeis-essenciais">5.2 Alterações nos Papéis Essenciais</span>
+### <span id="modifying-essential-roles">5.2 Modifying Essential Roles</span>
 
-Os [Papéis Essenciais](#papeis-essenciais) de cada [Círculo](#circulos) podem ser alterados durante o [Modo Adaptar](#modo-adaptar). No entanto, as seguintes restrições se aplicam:
+The [Essential Roles](#essential-roles) of each [Circle](#circles) can be modified during the [Adapt-Mode](#adapt-mode). However, the following restrictions apply:
 
-- O nome e o [Propósito](#papeis) dos [Papéis Essenciais](#papeis-essenciais) não pode ser alterado;
-- Novas [Responsabilidades](#papeis) e [Artefatos](#papeis) não podem ser acrescidas ao [Papel](#papeis) do [Elo Externo](#elo-externo);
-- As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais do Papel [Elo Externo](#elo-externo) podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel](#papeis) ou processo no [Círculo](#circulos);
-- As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais dos [Papéis](#papeis) de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno) não podem ser removidas ou modificadas;
-- Os [Papéis Essenciais](#papeis-essenciais) não podem ser removidos.
+- The name and the [Purpose](#roles) of the [Essential Roles](#essential-roles) cannot be modified;
+- New [Accountabilities](#roles) and [Artifacts](#roles) cannot be added to the [Outer Link](#outer-link) [Role](#roles);
+- The initial [Accountabilities](#roles) and [Artifacts](#roles) of the [Elected Essential Roles](#elected-essential-roles) cannot be removed or modified;
+- The [Essential Roles](#essential-roles) cannot be removed.
 
-#### <span id="alteracoes-nos-papeis-essenciais-nao-propagam">5.2.1 Alterações nos Papéis Essenciais não propagam</span>
+#### <span id="essential-role-modifications-do-not-propagate">5.2.1 Essential Role modifications do not propagate</span>
 
-As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [Círculo](#circulos) aplicam-se apenas ao [Círculo](#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](#circulos) internos.
+Modifying the [Essential Roles](#essential-roles) of a [Circle](#circles) applies only to the [Circle](#circles) where de modification took place. That is, it does not propagate to inner [Circles](#circles).
 
-### <span id="escolha-do-elo-externo">5.3 Escolha do Elo Externo</span>
+### <span id="outer-link-assignment">5.3 Outer Link Assignment/span>
 
-O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, por qualquer processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis) no [Círculo](#circulos) externo. O [Elo Externo](#elo-externo) do [Círculo](#circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](#meta-acordos).
+The [Outer Link](#outer-link) is chosen by the outer [Circle](#circles) by whatever process that assigns [Partners](#partners) to [Roles](#roles) in the outer [Circle](#circles). The [Outer Link](#outer-link) of the outermost [Circle](#circles) is determined by the same process that adopted these [Meta-Agreements](#meta-agreements).
 
-### <span id="atribuicao-de-parceiros-a-papeis">5.4 Atribuição de Parceiros a Papéis</span>
+### <span id="assigning-partners-to-roles">5.4 Assigning Partners to Roles</span>
 
-O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulos) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restrictions) diga o contrário.
+The [Outer Link](#outer-link) is accountable for assining [Partners](#partners) to the [Roles](#roles) of the [Circle](#circles) and may invite any [Partner](#partners) of the [Organization](#organization), unless a [Restriction](#restrictions) says otherwises.
 
-### <span id="facilitador">5.5 Facilitador</span>
-O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
+### <span id="facilitator">5.5 Facilitator</span>
 
-**Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
+The [Role](#role) of the "Facilitator" has the following initial definition:
 
-**Responsabilidades**:
-- Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
+**Purpose**: _Healthy Circle Meetings aligned with the [Meta-Agreements](#meta-agreements)_
 
-### <span id="secretario">5.6 Secretário</span>
-O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
+**Accountabilities**:
+- Facilitating the [Circle Meetings](#circle-meetings)
 
-**Propósito**: _[Meta-Acordos](#meta-acordos) e [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) claros_
+### <span id="secretary">5.6 Secretary</span>
 
-**Responsabilidades**:
-- Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
-- Registar as saídas das [Reuniões de Círculo](#reunioes-de-circulo)
-- Interpretar os [Meta-Acordos](#meta-acordos) e a [Estrutura Organizacional](#estrutura-organizacional) mediante solicitações
+The [Role](#role) of the "Secretary" has the following initial definition:
 
-**Artefatos**:
-- Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
+**Purpose**: _Clear-cut [Meta-Agreements](#meta-agreements) and [Organizational Structure](#organizational-structure)._
 
-### <span id="elo-externo">5.7 Elo Externo</span>
-O [Papel](#papeis) do "Elo Externo" possui a seguinte definição inicial:
+**Accountabilities**:
+- Scheduling regular [Circle Meetings](#circle-meetings)
+- Recording [Circle Meeting](#circle-meetings) outputs
+- Interpreting the [Meta-Agreements](#meta-agreements) and the [Organizational Structure](#organizational-structure) when requested
 
-**Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
+**Artifacts**:
+- [Circle](#circles) [Organizational Structure](#organizational-structure) records
 
-**Responsabilidades**:
-- Estruturar o [Círculo](#circulos) para expressar o seu [Propósito](#papeis)
-- Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
-- Estabelecer prioridades para o [Círculo](#circulos)
+### <span id="outer-link">5.7 Outer Link</span>
+The [Role](#roles) of the "Outer Link" has the following initial definition:
 
-**Artefatos**:
-- Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
+**Purpose**: _The [Purpose](#roles) of the [Circle](#circles)_
 
-O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
+**Accountabilities**:
+- Structuring the [Circle](#circles) to express its [Purpose](#roles)
+- Assigning [Partners](#partners) to the [Circle](#circles) [Roles](#roles); monitoring fit; offering feedback to enhance fit; re-assigning [Roles](#roles) to other [Partners](#partners) when needed
+- Establishing priorities for the [Circle](#circles)
 
-### <span id="elo-interno">5.8 Elo Interno</span>
-O [Papel](#papeis) do "Elo Interno" possui a seguinte definição inicial:
+**Artifacts**:
+- [Role](#roles) assignment within the [Circle](#circles)
 
-**Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
+The [Outer Link](#outer-link) holds all [Circle](#circles) undelegated [Accountabilities](#roles) and [Artifacts](#roles).
 
-**Responsabilidades**:
-- Buscar compreender [Tensões](#tensoes) trazidas pelos [Membros do Círculo](#membros-circulos), e processá-las quando apropriado no [Círculo](#circulos) externo
-- Fornecer visibilidade sobre a saúde do [Círculo](#circulos) para o [Círculo](#circulos) externo
+### <span id="inner-link">5.8 Inner Link</span>
+
+The [Role](#roles) of the "Inner Link" has the following initial definition:
+
+**Purpose**: _The [Purpose](#roles) of the [Circle](#circles)_
+
+**Accountabilities**:
+- Seeking to understand [Tensions](#tensions) brought by [Circle Members](#circle-members) and processing them when appropriate in the outer [Circle](#circles)
+- Providing visibility about the health of the [Circle](#circles) to the outer [Circle](#circles)
 
 [library]: <https://targetteal.com/en/organic-organization/library/>
 
-## Atribuições de Licença
+## License Attributions
 
-_Os Meta-Acordos da Organização Orgânica são derivados da [Constituição da Holacracia](https://holacracy.com/constitution) elaborado pela HolacracyOne, LLC, licenciado como Creative Commons Attribution ShareAlike 4.0 International License. Este trabalho é licenciado sob as mesmas condições. [Maiores informações sobre a licença podem ser encontradas aqui](LICENSE.md)._
+_The Meta-Agreements of the Organic Organization are derived from the [Holacracy Constitution](https://holacracy.com/constitution) created by HolacracyOne, LLC, licensed under Creative Commons Attribution ShareAlike 4.0 International License. This work is licensed under the same conditions. [Further information about the license can be found here](LICENSE.md)_.
