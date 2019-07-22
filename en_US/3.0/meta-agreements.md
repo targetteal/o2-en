@@ -73,7 +73,7 @@ This document does not define how the [Meta-Agreements](#meta-agreements) are ad
 An "Organization" is an entity created to express an [Evolutionary Purpose](#evolutionar-purpose). An Organization has assets that it controls and a clear boundary with the outside world.
 
 ### <span id="evolutionary-purpose">1.1 Evolutionary Purpose</span>
-An [Organization](#organization) has an "Evolutionary Purpose", which corresponds to the *deepest creative potential it can sustainably express in the world*. The Evolutionary Purpose is the [Purpose](#roles) of the broadest [Circle][#circles] in the [Organizational Structure](#organizational-structure).
+An [Organization](#organization) has an "Evolutionary Purpose", which corresponds to the *deepest creative potential it can sustainably express in the world*. The Evolutionary Purpose is the [Purpose](#roles) of the broadest [Circle](#circles) in the [Organizational Structure](#organizational-structure).
 
 ### <span id="partners">1.2 Partners</span>
 The [Organization](#organization) can have one or more "Partners", who are people that fill [Roles](#roles) and express the [Evolutionary Purpose](#evolutionary-purpose).
