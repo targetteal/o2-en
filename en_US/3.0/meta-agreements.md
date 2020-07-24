@@ -219,7 +219,7 @@ An [Objection](#objections) to a [Proposal](#proposal) that seeks to change the 
 
 1. **Degradation**. An [Objection](#objections) is about a harm that the [Proposal](#proposal) may cause to the [Circle](#circles).
 2. **Causality**. This harm is caused by the [Proposal](#proposal), that is, it does not exist without it.
-3. **Data-based**. The [Objection](#objections) is based on current data or past experiences. In other words, it is not an anticipation of future events. However, if the alleged harm is so disastrous that the [Circle](#circles) wouldn not be able to adapt in the future, this criteria can be disconsidered.
+3. **Data-based**. The [Objection](#objections) is based on current data or past experiences. In other words, it is not an anticipation of future events. However, if the alleged harm is so disastrous that the [Circle](#circles) would not be able to adapt in the future, this criteria can be disconsidered.
 4. **Role-related**. The [Objection](#objections) affects one of the [Objector](#objections) [Roles](#roles) in the [Circle](#circles).
 
 When validating [Objection](#objections), the [Facilitator](#facilitator) must not judge the accuracy of the arguments presented, but only if they were presented with logical reasoning and are thus reasonable. Valid [Objection](#objections) must be integrated.
@@ -230,7 +230,7 @@ If there are [Objection](#objections), the [Facilitator](#facilitator) must faci
 
 #### <span id="meta-agreement-breach">4.6.6 Meta-Agreement Breach</span>
 
-Any participant can raise an [Objection](#objections) of "Meta-Agreement Breach" if one considers the [Proposal](3proposal) violates one of these [Meta-Agreements](#meta-agreements). The [Facilitator](#facilitator) must then ask the [Secretary](#secretary) to interpret whether this is true or not. This special [Objection](#objections) does not need to be validated with the criteria used normaly, but it should be integrated like other ones.
+Any participant can raise an [Objection](#objections) of "Meta-Agreement Breach" if one considers the [Proposal](3proposal) violates one of these [Meta-Agreements](#meta-agreements). The [Facilitator](#facilitator) must then ask the [Secretary](#secretary) to interpret whether this is true or not. This special [Objection](#objections) does not need to be validated with the criteria used normally, but it should be integrated like other ones.
 
 #### <span id="asynchronous-proposals">4.6.7 Asynchronous Proposals</span>
 
@@ -240,7 +240,7 @@ Changes to the [Circle](#circles) [Organizational Structure](#organizational-str
 
 ### <span id="select-mode">4.7 Select Mode</span>
 
-The "Select Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal is to *choose [Circle Members](#circle-members) to fill one or more of the three [Elected Essential Roles](#elected-essential-roles)*. THe [Facilitator](#facilitator) must facilitate the Select Mode through a democratic election process, where the majority of votes will determine the elected [Partner](#partners).
+The "Select Mode" is a moment of the [Circle Meeting](#circle-meeting) whose goal is to *choose [Circle Members](#circle-members) to fill one or more of the three [Elected Essential Roles](#elected-essential-roles)*. The [Facilitator](#facilitator) must facilitate the Select Mode through a democratic election process, where the majority of votes will determine the elected [Partner](#partners).
 
 > Check the **Patterns for Selecting** in the [Pattern Library][library].
 
@@ -254,7 +254,7 @@ The election process of the 3 [Elected Essential Roles](#elected-essential-roles
 
 #### <span id="eligible-partners">4.7.3 Eligible Partners</span>
 
-All and only [Circle Members](#circle-members) are eligible for the 3 [Elected Essential Roles](#elected-essential-roles), with the exception of the [Partner](#partners) that fills the [Outer Link](#outer-link) [Role](#roles), who is not eligible as [Facilitator](#facilitator) or [Inner Link](#inner-link) of the same [Circle](#circles).
+All and only [Circle Members](#circle-members) are eligible for the 3 [Elected Essential Roles](#elected-essential-roles), except the [Partner](#partners) that fills the [Outer Link](#outer-link) [Role](#roles), who is not eligible as [Facilitator](#facilitator) or [Inner Link](#inner-link) of the same [Circle](#circles).
 
 #### <span id="tie-breaker">4.7.4 Tie Breaker</span>
 
@@ -297,7 +297,7 @@ The [Outer Link](#outer-link) is chosen by the outer [Circle](#circles) by whate
 
 ### <span id="assigning-partners-to-roles">5.4 Assigning Partners to Roles</span>
 
-The [Outer Link](#outer-link) is accountable for assining [Partners](#partners) to the [Roles](#roles) of the [Circle](#circles) and may invite any [Partner](#partners) of the [Organization](#organization), unless a [Restriction](#restrictions) says otherwises.
+The [Outer Link](#outer-link) is accountable for assining [Partners](#partners) to the [Roles](#roles) of the [Circle](#circles) and may invite any [Partner](#partners) of the [Organization](#organization), unless a [Restriction](#restrictions) says otherwise.
 
 ### <span id="facilitator">5.5 Facilitator</span>
 
